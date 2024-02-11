@@ -1,0 +1,78 @@
+p{
+    font-size: 14px;
+}
+a{
+    color: green;
+}
+h1, h2, h3, h4, h5, h6{
+    color: darkorange;
+}
+.highlight{
+    background-color: yellow;
+}
+.primary-button{
+    border-style:dotted;
+    background-color: black;
+    color: white;
+}
+.secondary-button{
+    background-color: coral;
+    color: black;
+}
+.tab{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#main-navigation{
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    padding: 0%;
+    margin: 1%;
+    border-style: double;
+
+}
+ol li{
+    font-size: larger;
+    font-stretch: condensed;
+    font-style: oblique;
+    border-bottom: 10%;
+    border-radius: 20%;
+    padding-bottom: 0%;
+    
+}
+.container > div{
+    border: 2px solid black;
+}
+h2 + p{
+    background-color: bisque;
+    font-size: medium;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input[type="text"] {
+    border: 1px solid #ccc;
+    padding: 5px;
+
+}
+.para{
+    font-style:oblique;
+    border-style: dotted;
+}
+.para2{
+    font-style: italic;
+}
+.special-heading{
+    color: blueviolet;
+
+}
+nav ul{
+    font-style:italic;
+    padding: 1%;
+    margin: 2%;
+    border: 5px solid black;
+    
+}
+
+
